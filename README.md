@@ -1,4 +1,4 @@
-# Venture-Capital-Ressources
+# Venture-Capital-Resources
 
 I will be presenting a GHC Workshop on Intro to Venture Capital! This repository is an open resource hub to share practical VC learnings with the community.
 
